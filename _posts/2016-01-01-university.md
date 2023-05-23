@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Where I created a software to improve access to research articles"
+title:  "Where I taught good coding practices to university students"
 author: erica
-categories: [ UX, Teaching, PHP, React, Architecture, Support, Project Management ]
-image: assets/images/library.jpg
+categories: [ Peer Review, Git, Unit Testing, Teaching]
+image: assets/images/valence.jpg
 experience: true
 ---
 
-Working for Decalog, I created a web app designed to allow universities and libraries to manage their subscription to research journals
+At the university of Grenoble-Alpes, I created, taught and evaluated a course for bachelor students about version control, unit testing, peer reviewing and clean coding. 
 
 #### Who ?
 

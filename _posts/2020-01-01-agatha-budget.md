@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Where I helped people mastering their personnal finances"
+title:  "Where I accompanied people in mastering their personnal finances"
 author: erica
-categories: [ UX, Teaching, NodeJs, React ]
+categories: [ UX, Kotlin, VueJs, Architecture, System Administration, Marketing, Communication, Teaching, Hiring, Social Service Work ]
 image: assets/images/logo-agatha.png
 experience: true
 ---
 
-I created my own software "Agatha-Budget" to help people in mastering their personnal finances no matter their income
-
+I created my own budgeting software and my own company while also becoming the departemental point of contact for budgeting support of a well known charity.
 
 #### Who ?
 

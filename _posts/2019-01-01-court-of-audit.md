@@ -2,15 +2,20 @@
 layout: post
 title:  "Where I kickstarted an innovative project for the french Court of Audit"
 author: erica
-categories: [ UX, Teaching, NodeJs, React ]
+categories: [ UX, NodeJs, React, Hiring, Teaching ]
 image: assets/images/french-audit.jpg
 experience: true
 ---
 
-I joined the 3d season of the "Entrepreneur d'Intérêt Général" program. 10 month to accompany an administration in its digital transition.
+I joined the 3d season of the "Entrepreneur d'Intérêt Général" program promoted by the "Ministére de la Transition et de la Fonction Publique". 
 
 
 #### Who ?
+
+10 months to accompany an administration in its digital transition.
+
+https://eig.etalab.gouv.fr/defis/plume/
+
 
 ### What ?
 
