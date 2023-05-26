@@ -45,35 +45,7 @@ title: Home
 
     </div>
 
-    Project Management : Customer Relation, Training and Support, UX/UI Design
-    
-    Languages : Kotlin, Java, PHP, NodeJS
-    
-    Web : Typescript, React, Vue, OpenAPI, Figma
-    
-    System Administration : GNU/Linux, Nixos, Jenkins
-    
-    Methods : Agile, UX Design, Peer review, TDD, Hexagonal architecture, MicroServices
-    
-    Languages : Français (native), English (TOEIC Max), Deutsch (former B2), 汉语 (HSK2), 日本語 (former A2)
-
-
-<!-- Categories Jumbotron
-================================================== -->
-    <div class="col-md-8 p-5 align-self-center text-center">
-        {% assign categories_list = site.categories %}
-        {% if categories_list.first[0] == null %}
-            {% for category in categories_list %}
-                <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-            {% endfor %}
-        {% else %}
-            {% for category in categories_list %}
-                <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-            {% endfor %}
-        {% endif %}
-        {% assign categories_list = nil %}
-    </div>
-	
+    {% include skill.html %}
 
 </section>
 

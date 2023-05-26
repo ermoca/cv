@@ -15,8 +15,24 @@
 ;
 
 .linepost {
-
 	img {
 		//max-height: 150px;
 	}
+}
+.after-post-cats {
+	text-align: center;
+	li {
+		margin: 5px;
+	}
+}
+
+.skills {
+	span {
+		margin: 5px;
+		font-weight: bold;
+	}
+}
+
+.mainheading {
+	text-align: center;
 }

@@ -10,17 +10,26 @@ post_class: post-template
     <div class="row">
 
         <div class="col-md-8 offset-2 flex-first flex-md-unordered">
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                {% if page.next.url %}
+                <a class="next d-block col-md-6 " href="{{ site.baseurl }}{{page.next.url}}"> &laquo; {{page.next.title}}  </a>
+                {% endif %}
+                {% if page.previous.url %}
+                <a class="prev d-block col-md-6 text-lg-right" href="{{ site.baseurl }}{{page.previous.url}}"> {{page.previous.title}} &raquo;</a>
+                {% endif %}
+               
+                <div class="clearfix"></div>
+                </div>
+                <!-- End Categories -->
+
+
             <div class="mainheading">
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
 
             </div>
-
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
 
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -93,17 +102,7 @@ post_class: post-template
             </div>
             <!-- End Tags -->
 
-            <!-- Prev/Next -->
-            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
-            {% endif %}
-            <div class="clearfix"></div>
-            </div>
-            <!-- End Categories -->
+            
 
         </div>
         <!-- End Post -->
