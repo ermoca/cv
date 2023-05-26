@@ -4,6 +4,7 @@ title:  "Where I taught good coding practices to university students"
 author: erica
 categories: [ Peer Review, Git, Unit Testing, Software Craftmanship, Teaching]
 image: assets/images/valence.jpg
+year: "2016-2018"
 experience: true
 ---
 
