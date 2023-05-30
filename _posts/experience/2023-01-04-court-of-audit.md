@@ -8,4 +8,4 @@ year: "2019-2020"
 experience: true
 ---
 
-I joined the 3d season of the <a href="https://eig.etalab.gouv.fr/">"Entrepreneur d'Intérêt Général"</a> program on the <a href="https://eig.etalab.gouv.fr/defis/plume/">Plume</a> project. 16 months to accompany a public administration in its digital transition.
+I joined the 3d season of the <a href="https://eig.etalab.gouv.fr/" target="_blank">"Entrepreneur d'Intérêt Général"</a> program on the <a href="https://eig.etalab.gouv.fr/defis/plume/" target="_blank">Plume</a> project. 16 months to accompany a public administration in its digital transition.

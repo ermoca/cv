@@ -8,4 +8,4 @@ year: "2020-today"
 experience: true
 ---
 
-I created my own <a href="https://agatha-budget.fr/">budgeting software</a> and became the regional specialist of a well known national charity. See this <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834">podcast</a> (french) for more details.
+I created my own <a href="https://agatha-budget.fr/" target="_blank">budgeting software</a> and became the regional specialist of a well known national charity. See this <a href="https://podcasts.apple.com/us/podcast/8-erica-delagnier-mieux-g%C3%A9rer-son-budget-pour-r%C3%A9aliser/id1675231225?i=1000611698834" target="_blank">podcast</a> (french) for more details.
