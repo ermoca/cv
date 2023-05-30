@@ -2,7 +2,7 @@
 layout: post
 title:  "Where I accompanied people in mastering their personnal finances"
 author: erica
-categories: [ UX, Architecture, Kotlin, VueJs, UI Atomic Design, System Administration, Marketing, Communication,  Teamwork, Hiring and training, Custommer support and training, Welfare and Charity ]
+categories: [ UX, Architecture, Kotlin, VueJs, UI Atomic Design, System Administration, Marketing, Financial literacy, Communication,  Teamwork, Hiring and training, Custommer support and training, Welfare and Charity ]
 image: assets/images/logo-agatha.png
 year: "2020-today"
 experience: true
