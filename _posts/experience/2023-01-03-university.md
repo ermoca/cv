@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where I taught good coding practices to university students"
+title:  "In which I taught good coding practices to university students"
 author: erica
 categories: [ Peer Review, Git, Unit Testing, Software Craftmanship, Teaching, Practical experience formalisation, Pedagogy, Group management]
 image: assets/images/valence.jpg
