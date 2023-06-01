@@ -14,6 +14,7 @@ License: https://www.wowthemes.net/freebies-license/
 a {
     color: #2C8C89;
     transition: all 0.2s;
+    text-decoration: underline;
 }
 
 a:hover {
