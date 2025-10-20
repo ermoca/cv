@@ -12,5 +12,4 @@ in stdenv.mkDerivation {
   buildInputs = [env ruby bundler];
 }
 
-
 # source : https://matthewrhone.dev/jekyll-in-nixos
